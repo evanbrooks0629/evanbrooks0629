@@ -5,3 +5,9 @@
 - ⚡ I am a rising Junior at the University of Florida
 - 💬 Ask me about Python, Node.js, and React.js
 - 📫 How to reach me: evanbrooks0629@gmail.com
+
+### Some of My Work
+
+[Visit my personal website](https://evanbrooks0629.github.io/evanbrooks/)
+
+[Check out my most recent project](https://evanbrooks0629.github.io/TimeBlock/)
