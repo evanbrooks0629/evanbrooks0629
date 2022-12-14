@@ -10,4 +10,4 @@
 
 [Visit my personal website](https://evanbrooks0629.github.io/evanbrooks/)
 
-[Check out my most recent project](https://evanbrooks0629.github.io/TimeBlock/)
+[Check out my most recent project](https://www.time-block.io)
