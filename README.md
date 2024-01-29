@@ -1,6 +1,6 @@
 ### Hey, Welcome To My Profile
 
-- 🔭 I’m currently working on TimeBlock, a PWA designed to help you plan out your day
+- 🔭 I’m currently working on TaskForce, an AI software development workflow
 - 🌱 I’m currently learning NLP and App Development
 - ⚡ I am a Senior at the University of Florida
 - 💬 Ask me about Python, Node.js, and React.js
