@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on TaskForce, an AI software development workflow
 - 🌱 I’m currently learning NLP and App Development
-- ⚡ I am a Senior at the University of Florida
+- ⚡ I recently graduated from the University of Florida
 - 💬 Ask me about Python, Node.js, and React.js
 - 📫 How to reach me: evanbrooks0629@gmail.com
 
