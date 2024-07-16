@@ -1,6 +1,6 @@
 ### Hey, Welcome To My Profile
 
-- 🔭 I’m currently working on TaskForce, an AI software development workflow
+- 🔭 I’m currently working on Brighter, a microlearning mobile app
 - 🌱 I’m currently learning NLP and App Development
 - ⚡ I recently graduated from the University of Florida
 - 💬 Ask me about Python, Node.js, and React.js
