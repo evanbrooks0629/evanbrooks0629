@@ -1,6 +1,6 @@
 ### Hey, Welcome To My Profile
 
-- 🔭 I’m currently working on a mailing service that can connect to any database
+- 🔭 I’m currently working on MongoMail, a platform for sending personalized emails using user data
 - 🌱 I’m earning my Master's Degree at the University of Miami
 - ⚡ I recently graduated from the University of Florida
 - 💬 Ask me about Python, Node.js, and React.js
@@ -10,4 +10,4 @@
 
 [Visit my personal website](https://evanbrooks0629.github.io/evanbrooks/)
 
-[Check out my most recent project](https://www.mongomail.co)
+[Check out my most recent project, MongoMail](https://www.mongomail.co)
