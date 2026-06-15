@@ -1,5 +1,6 @@
 ### Former Programmer Turned Prompt Whisperer
 
-Currently building cool things at DevelopIQ. It's pretty cool you should check it out <a href="https://www.developiq.ai" onclick="window.open('https://www.developiq.ai', '_self');">here</a>
+Follow for sexy content 😉🔥
 
-We're turning construction firms into AI companies. Yeah, I know. Pretty sweet.
+
+Unfortunately it's mostly code...but it's spicy code
